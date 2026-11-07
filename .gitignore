@@ -1,0 +1,10 @@
+venv/
+.env
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.vscode/
+.idea/
+.switch_credentials.json
+.switch_credentials.json.tmp
+*.db
